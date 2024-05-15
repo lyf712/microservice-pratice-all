@@ -1,0 +1,19 @@
+server:
+  port: 82
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+      # 获取服务列表的周期：5s
+      registry-fetch-interval-seconds: 5
+
+zuul:
+  # 使用 prefix 添加前缀
+  # prefix: /api/
+  routes:
+    user:
+      path: /user/**
+      serviceId: user-service
+      # 是否过滤前缀【user】
+      strip-prefix: true
