@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/microservice-config-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-config-center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-gateway/microservice-cloud-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-gateway/microservice-cloud-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-gateway/microservice-zuul1.x/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-gateway/microservice-zuul1.x/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-register-center/microservice-register-netflix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-register-center/microservice-register-netflix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-register-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-register-center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/microservice-common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/microservice-common-util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/microservice-dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/microservice-dubbo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/microservice-springcloud-alibaba/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/microservice-springcloud-alibaba/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/microservice-springcloud/microservice-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/microservice-springcloud/microservice-user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/microservice-springcloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/microservice-springcloud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-framework/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
